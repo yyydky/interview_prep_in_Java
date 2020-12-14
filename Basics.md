@@ -20,6 +20,7 @@ reference comparison | content comparison
 - immutable class, cannot be inherit
 - cannot override the method
 - constant variable, initialize
+- https://www.geeksforgeeks.org/final-keyword-java/
 
 4. Primitive types:
 - boolean
