@@ -14,3 +14,20 @@ A JVM implementation | Has JRE and development tools
 ------------ | -------------
 reference comparison | content comparison 
 https://www.geeksforgeeks.org/difference-equals-method-java/
+
+Same hashcode does not mean equal() returns true.
+
+3. final
+- immutable class, cannot be inherit
+- cannot override the method
+- constant variable, initialize
+
+4. Primitive types:
+- boolean
+- byte
+- char
+- short
+- int
+- long
+- float
+- double
