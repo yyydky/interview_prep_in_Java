@@ -9,13 +9,12 @@ Java Runtime Environment | Java Development Kit
 A runtime environemnt | The tool for compiling, documenting, and packaging Java software 
 A JVM implementation | Has JRE and development tools 
 
-2. == vs. equal()
+2. 
 == | equal()
 ------------ | -------------
 reference comparison | content comparison 
-https://www.geeksforgeeks.org/difference-equals-method-java/
-
-Same hashcode does not mean equal() returns true.
+- https://www.geeksforgeeks.org/difference-equals-method-java/
+- Same hashcode does not mean equal() returns true.
 
 3. final
 - immutable class, cannot be inherit
