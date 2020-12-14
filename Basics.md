@@ -13,3 +13,4 @@ A JVM implementation | Has JRE and development tools
 == | equal()
 ------------ | -------------
 reference comparison | content comparison 
+https://www.geeksforgeeks.org/difference-equals-method-java/
